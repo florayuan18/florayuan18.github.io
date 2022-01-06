@@ -3,19 +3,23 @@ layout: page
 title: Read Me
 subtitle: PikachuDrinkingWindex ReadMe
 ---
+# Week 1 Issues
+
+| Team Member | Roles |           Issues                              | 
+| :------ |:--- | :--- |
+| Calvin Cheah  | Technical Officer| [Technicals](https://github.com/florayuan18/pikachudrinkingwindex/issues/29) |
+| Crystal Widjaja | Scrum Leader | [Assignments](https://github.com/florayuan18/pikachudrinkingwindex/issues/30) |
+| Flora Yuan | GitHub Admin | [Github Guide](https://github.com/florayuan18/pikachudrinkingwindex/issues/8) |
+| Kira Liao | Web Designer | [Design Guide](https://github.com/florayuan18/pikachudrinkingwindex/issues/28) |
+| Maggie Killada | Deployment Manager | [Deployment Guide](https://github.com/florayuan18/pikachudrinkingwindex/issues/9) |
+
+
 # Week 0 Issues
 
-| Team Member | Roles | Hi |
-| :------ |:--- | :--- |
-| Calvin Cheah | Technical Officer | please |
-| Crystal Widjaja | Scrum Leader | send |
-| Flora Yuan | GitHub Admin | help |
-| Kira Liao | Web Designer | i'm |
-| Maggie Killada | Deployment Manager | desperate |
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+| Team Member | Roles |
+| :------ |:--- |
+| Calvin Cheah | Technical Officer
+| Crystal Widjaja | Scrum Leader |
+| Flora Yuan | GitHub Admin |
+| Kira Liao | Web Designer |
+| Maggie Killada | Deployment Manager |
