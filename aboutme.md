@@ -4,13 +4,13 @@ title: Read Me
 subtitle: PikachuDrinkingWindex ReadMe
 ---
 # Week 0 Issues
-| Team Member | Roles |
-| :---------- |:--- |
-| Calvin Cheah | Technical Officer |
-| Crystal Widjaja | Scrum Leader | 
-| Flora Yuan | GitHub Admin |
-| Kira Liao | Web Designer |
-| Maggie Killada | Deployment Manager |
+| Team Member | Roles | Hi |
+| :---------- |:--- | :---- |
+| Calvin Cheah | Technical Officer | please |
+| Crystal Widjaja | Scrum Leader | send |
+| Flora Yuan | GitHub Admin | help
+| Kira Liao | Web Designer | i'm |
+| Maggie Killada | Deployment Manager | desperate |
 
 | Number | Next number | Previous number |
 | :------ |:--- | :--- |
