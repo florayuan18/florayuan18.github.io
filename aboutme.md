@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Read Me
+title: ReadMe
 subtitle: PikachuDrinkingWindex ReadMe
 ---
 # Week 1 Issues
