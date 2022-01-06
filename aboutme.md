@@ -8,7 +8,7 @@ subtitle: PikachuDrinkingWindex ReadMe
 | :---------- |:--- | :---- |
 | Calvin Cheah | Technical Officer | please |
 | Crystal Widjaja | Scrum Leader | send |
-| Flora Yuan | GitHub Admin | help
+| Flora Yuan | GitHub Admin | help |
 | Kira Liao | Web Designer | i'm |
 | Maggie Killada | Deployment Manager | desperate |
 
@@ -18,3 +18,11 @@ subtitle: PikachuDrinkingWindex ReadMe
 | Ten | Eleven | Nine |
 | Seven | Eight | Six |
 | Two | Three | One |
+
+| Team Member | Roles | Hi |
+| :------ |:--- | :--- |
+| Calvin Cheah | Technical Officer | please |
+| Crystal Widjaja | Scrum Leader | send |
+| Flora Yuan | GitHub Admin | help |
+| Kira Liao | Web Designer | i'm |
+| Maggie Killada | Deployment Manager | desperate |
