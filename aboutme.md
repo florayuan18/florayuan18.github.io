@@ -10,4 +10,4 @@ subtitle: PikachuDrinkingWindex ReadMe
 | Crystal Widjaja | Scrum Leader | 
 | Flora Yuan | GitHub Admin |
 | Kira Liao | Web Designer |
-| Maggie Killada | Three |
+| Maggie Killada | Deployment Manager |
