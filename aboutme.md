@@ -5,7 +5,6 @@ subtitle: PikachuDrinkingWindex ReadMe
 ---
 # Week 3 Issues
 
-[Group Ticket](https://github.com/florayuan18/pikachudrinkingwindex/issues/44)
 | Team Member           | Roles |           Issues                              | 
 | -------------------------- |-----------------------------|-----------------------------|  
 | Calvin Cheah  | Technical Officer| [Data and CRUD](https://github.com/florayuan18/pikachudrinkingwindex/issues/38) |
@@ -17,7 +16,6 @@ subtitle: PikachuDrinkingWindex ReadMe
 
 # Week 2 Issues
 
-[Group Ticket](https://github.com/florayuan18/pikachudrinkingwindex/issues/44)
 | Team Member           | Roles |           Issues                              | 
 | -------------------------- |-----------------------------|-----------------------------|  
 | Calvin Cheah  | Technical Officer| [Individual Home Pages](https://github.com/florayuan18/pikachudrinkingwindex/issues/1) |
