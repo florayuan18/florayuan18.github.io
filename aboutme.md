@@ -16,7 +16,7 @@ subtitle: PikachuDrinkingWindex ReadMe
 
 # Week 3 Issues
 
-| Team Member           | Roles |           Issues                              | 
+| [Team](https://github.com/florayuan18/pikachudrinkingwindex/issues/44) Member           | Roles |           Issues                              | 
 | -------------------------- |-----------------------------|-----------------------------|  
 | Calvin Cheah  | Technical Officer| [Data and CRUD](https://github.com/florayuan18/pikachudrinkingwindex/issues/38) |
 | Crystal Widjaja | Scrum Leader | [Progress Overview](https://github.com/florayuan18/pikachudrinkingwindex/issues/37) |
@@ -27,7 +27,7 @@ subtitle: PikachuDrinkingWindex ReadMe
 
 # Week 2 Issues
 
-| Team Member           | Roles |           Issues                              | 
+| [Team](https://github.com/florayuan18/pikachudrinkingwindex/issues/34) Member           | Roles |           Issues                              | 
 | -------------------------- |-----------------------------|-----------------------------|  
 | Calvin Cheah  | Technical Officer| [Individual Home Pages](https://github.com/florayuan18/pikachudrinkingwindex/issues/1) |
 | Crystal Widjaja | Scrum Leader | [Individual Home Pages](https://github.com/florayuan18/pikachudrinkingwindex/issues/2) |
