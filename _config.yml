@@ -15,6 +15,7 @@ author: pikachu
 
 navbar-links:
   ReadMe: "aboutme"
+  Role Guides: "roleguide"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
