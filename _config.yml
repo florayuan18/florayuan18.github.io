@@ -16,7 +16,7 @@ author: pikachu
 navbar-links:
   ReadMe: "aboutme"
   Role Guides:
-    - Deployment Guide: "deploymentguide"
+    - Deployment Guide: "/_guides/deploymentguide"
     - Design Guide: "designguide"
     - Github Guide: "githubguide"
     - Technical Guide: "technicalguide"
