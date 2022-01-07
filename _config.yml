@@ -14,7 +14,7 @@ author: pikachu
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Read Me: "aboutme"
+  ReadMe: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
