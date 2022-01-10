@@ -44,8 +44,6 @@ Execute these lines in terminal:
 7. `sudo ln -s /etc/nginx/sites-available/AllHailTheHolyScrumMaster /etc/nginx/sites-enabled`
 8. `sudo nginx -t`
 9. `sudo systemctl restart nginx`
-   ![service.png](https://github.com/florayuan18/pikachudrinkingwindex/blob/master/src/main/resources/static/images/service.png)
-   ![nginx.png](https://github.com/florayuan18/pikachudrinkingwindex/blob/master/src/main/resources/static/images/nginx.png)
 
 ## Creating a custom domain name using Freenom
 1. head to freenom.com
