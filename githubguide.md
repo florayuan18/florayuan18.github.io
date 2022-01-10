@@ -56,6 +56,15 @@ subtitle: Flora Yuan
 
 
 # Week 3
+
+| Team Member           | Roles |           Commits                              | 
+| -------------------------- |-----------------------------|-----------------------------|  
+| Calvin Cheah  | Technical Officer| He worked on getting the new FRQs to work on his page, specifically creating a .java file for the order [FRQ](https://github.com/florayuan18/pikachudrinkingwindex/commit/8821ca1cd2fa2ad6357a82fce79db91de9cf3494).  He also made progress with the [API](https://github.com/florayuan18/pikachudrinkingwindex/commit/5ba5543753fe4c135bbb929050a6ea974dfb3990#diff-5452d644105363cac4fbcb3928edf554a575b4312c9898f78c357c2ca531f1d0R1-R45). |
+| Crystal Widjaja | Scrum Leader | [Video Game API](https://github.com/florayuan18/pikachudrinkingwindex/issues/22) |
+| Flora Yuan | GitHub Admin | [Jekyll Set Up](https://github.com/florayuan18/pikachudrinkingwindex/issues/45) |
+| Kira Liao | Web Designer | [Video Game API](https://github.com/florayuan18/pikachudrinkingwindex/issues/22) |
+| Maggie Killada | Deployment Manager | [Certbot](https://github.com/florayuan18/pikachudrinkingwindex/issues/24) |
+
 ## Commits
 - Calvin: He worked on getting the new FRQs to work on his page, specifically creating a .java file for the order [FRQ](https://github.com/florayuan18/pikachudrinkingwindex/commit/8821ca1cd2fa2ad6357a82fce79db91de9cf3494).  He also made progress with the [API](https://github.com/florayuan18/pikachudrinkingwindex/commit/5ba5543753fe4c135bbb929050a6ea974dfb3990#diff-5452d644105363cac4fbcb3928edf554a575b4312c9898f78c357c2ca531f1d0R1-R45).
 - Kira: She worked on updating her "about us" page with the FRQs as well, finalizing the controller for the light [sequence](https://github.com/florayuan18/pikachudrinkingwindex/commit/b32a4428b2534f39171615c5ce9dc589ce7a9673).  She also made progress with [designing](https://github.com/florayuan18/pikachudrinkingwindex/commit/11003c2f3ec97c38f9ed0b3d34ff3600563838b0#diff-dce5037ca59f91a501819f7f56f1c6c1425519e96cb2fdde9c7dbce971c179e9R5-R62) the website.
