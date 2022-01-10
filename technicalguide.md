@@ -1,15 +1,24 @@
 ---
 layout: page
-title: ReadMe
-subtitle: PikachuDrinkingWindex ReadMe
+title: Technical Guide
+subtitle: Calvin Cheah
 ---
-# Week 4 Issues
+## Week 3
+* [Commits](https://github.com/florayuan18/pikachudrinkingwindex/commit/5ba5543753fe4c135bbb929050a6ea974dfb3990) for this week
 
-| Team Member           | Roles |           Issues                              | 
-| -------------------------- |-----------------------------|-----------------------------|  
-| Calvin Cheah  | Technical Officer| [Search Bar](https://github.com/florayuan18/pikachudrinkingwindex/issues/31) |
-| Crystal Widjaja | Scrum Leader | [Video Game API](https://github.com/florayuan18/pikachudrinkingwindex/issues/22) |
-| Flora Yuan | GitHub Admin | [Jekyll Set Up](https://github.com/florayuan18/pikachudrinkingwindex/issues/45) |
-| Kira Liao | Web Designer | [Video Game API](https://github.com/florayuan18/pikachudrinkingwindex/issues/22) |
-| Maggie Killada | Deployment Manager | [Certbot](https://github.com/florayuan18/pikachudrinkingwindex/issues/24) |
 
+## Week 1
+Technical [Brainstorm](https://docs.google.com/document/d/1LYjTZ1j-ZUPGPqn2R9at4_C9VHX11JZJvOJ16t-HXBg/edit?usp=sharing):
+* Video Game api
+* Database for “Collection” feature (games you saved for later)
+* Search function
+* Video game library
+* Filter by genre etc.
+* Video game description when title clicked
+* Log in
+* Nav bar
+* Community spotlight
+* Javascript page transitions (fading in and out)
+* Scrolling down - appears / scroll transitions - https://scrollrevealjs.org/api/reveal.html
+* Cards on the search page & my collection page
+* Option to add a game from the search page to “my collection”
