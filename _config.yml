@@ -20,10 +20,6 @@ navbar-links:
     - Design Guide: "designguide"
     - Github Guide: "githubguide"
     - Technical Guide: "technicalguide"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
