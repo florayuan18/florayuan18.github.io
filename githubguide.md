@@ -56,6 +56,7 @@ subtitle: Flora Yuan
 
 
 ## Week 3
+- Pull Request created for the design branch for implementing CSS into the main [branch](https://github.com/florayuan18/pikachudrinkingwindex/pull/43)
 
 | Team Member           | Roles |           Commits                              | 
 | -------------------------- |-----------------------------|-----------------------------|  
@@ -64,5 +65,3 @@ subtitle: Flora Yuan
 | Flora Yuan | GitHub Admin | She worked on the FRQs, as well as started updating the navigation bar to start creating a [theme](https://github.com/florayuan18/pikachudrinkingwindex/commit/30d3a2cfb5b0172359bce0e3131df9418f3e77e0). |
 | Kira Liao | Web Designer | She worked on updating her "about us" page with the FRQs as well, finalizing the controller for the light [sequence](https://github.com/florayuan18/pikachudrinkingwindex/commit/b32a4428b2534f39171615c5ce9dc589ce7a9673).  She also made progress with [designing](https://github.com/florayuan18/pikachudrinkingwindex/commit/11003c2f3ec97c38f9ed0b3d34ff3600563838b0#diff-dce5037ca59f91a501819f7f56f1c6c1425519e96cb2fdde9c7dbce971c179e9R5-R62) the website. |
 | Maggie Killada | Deployment Manager | She worked on the FRQs as well, creating a controller for the order [FRQ](https://github.com/florayuan18/pikachudrinkingwindex/commit/0f9bb6a6d7d93a4750cca432f8bb39ba5d595a1c). |
-
-- Pull Request created for the design branch for implementing CSS into the main [branch](https://github.com/florayuan18/pikachudrinkingwindex/pull/43)
