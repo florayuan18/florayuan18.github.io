@@ -3,7 +3,6 @@ layout: page
 title: Deployment Guide
 subtitle: Maggie Killada
 ---
-### Process:
 ## Materials
 - Raspberry Pi (Raspberry Pi 400 Unit Keyboard) _this is the hardware we will use_
 - VNC Viewer (on both Pi and on host)
