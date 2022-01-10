@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Design Guide
-subtitle: Kira Liao
+subtitle: Kira Liao 
 ---
 ## [Wireframe](https://docs.google.com/presentation/d/1bv--S9_jOwYo-GynX0uEnSAN2nPqQGaUkrtaWwmMdtM/edit?usp=sharing)
 ## 13 Key Ideas:
