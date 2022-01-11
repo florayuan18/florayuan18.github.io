@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sample Issue #1
-subtitle: Person who did issue
+title: Video Game API
+subtitle: RWHE API
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [issue, name]
+tags: [api, video game]
 comments: true
 ---
 
