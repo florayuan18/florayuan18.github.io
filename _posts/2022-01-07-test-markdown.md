@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Video Game API
-subtitle: RWHE API
+subtitle: RAWG API
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [api, video game]
