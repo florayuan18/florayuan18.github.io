@@ -1,12 +1,22 @@
 ---
 layout: post
-title: sample
-subtitle: sample
+title: Video Game API
+subtitle: RAWG API
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [api, video game]
 comments: true
 ---
+**Goals**
+- retrieve the newest and hottest games!
+- displays game icons and summaries for user convenience
+
+**Potential Features**
+- display user ratings for each game
+- implements search bar
+- recommendations for new games based on user trends/preferences
+
+
 
 This is a sample for how issues will start to look.
 
