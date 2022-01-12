@@ -36,12 +36,12 @@ In terminal:
 ## Creating a service on Raspberry Pi
 Execute these lines in terminal:
 1. `cd /etc/systemd/system/`
-2. `sudo touch AllHailTheHolyScrumMaster.service`
-3. `sudo systemctl start AllHailTheHolyScrumMaster`
-4. `sudo systemctl status AllHailTheHolyScrumMaster`
+2. `sudo touch pikachudrinkingwindex.service`
+3. `sudo systemctl start pikachudrinkingwindex`
+4. `sudo systemctl status pikachudrinkingwindex`
 5. `cd /etc/nginx/sites-available`
-6. `sudo touch AllHailTheHolyScrumMaster`
-7. `sudo ln -s /etc/nginx/sites-available/AllHailTheHolyScrumMaster /etc/nginx/sites-enabled`
+6. `sudo touch pikachudrinkingwindex`
+7. `sudo ln -s /etc/nginx/sites-available/pikachudrinkingwindex /etc/nginx/sites-enabled`
 8. `sudo nginx -t`
 9. `sudo systemctl restart nginx`
 
