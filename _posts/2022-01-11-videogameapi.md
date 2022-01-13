@@ -2,7 +2,7 @@
 layout: post
 title: Video Game API
 subtitle: RAWG API
-cover-img: /assets/img/rawgapi.jpg
+thumbnail-img: /assets/img/rawgapi.png
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [api, video game]
