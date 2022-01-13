@@ -2,7 +2,7 @@
 layout: post
 title: My Collection Database
 subtitle: For Building a Gaming List
-cover-img: /assets/img/background2jpg
+cover-img: /assets/img/background2.jpg
 thumbnail-img: /assets/img/databasethumbnail.jpg
 share-img: /assets/img/background2.jpg
 gh-repo: daattali/beautiful-jekyll
