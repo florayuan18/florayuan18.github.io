@@ -11,33 +11,33 @@ comments: true
 
 ---
 **Goals**
-- Retrieve the newest and hottest games!
-- Displays game icons and summaries for user convenience
-- Implements search bar
+- Allow users to save a list of their favorite games
+- Rating for games can be updated
+- Games can be deleted from the collection
 
 **Potential Features**
-- Display user ratings for each game
-- Recommendations for new games based on user trends/preferences
+- Creating a format for the database
+- Adding buttons to place games from search bar to My Collection Database
 
 ### Updates
 
 {: .box-note}
-**01/13/22:** Search Bar has been implemented.
+**01/13/22:** Database Basics Created
 
-Example of Valorant Search:
+My Collection Frontend:
 
 ![Collection](/assets/img/mycollection.png)
 
-Sample Code for API:
+Sample Code for Database:
 
 ```javascript
-public class SearchCTRL {
-  @GetMapping("/search")
-  public String RawgAPI(@RequestParam(name="search", required=true, defaultValue= "") String search, Model model) throws IOException, InterruptedException, ParseException, JSONException {
+<tr th:each="person : ${list}">
+    <td th:text="${person.teacher_class}" >Game</td>
+    <td th:text="${person.rating}" >Rating</td>
 
-  String KEY = "42771867b81b456496770e0c1c15d4f2";
-  String url = "https://api.rawg.io/api/games?key=" + KEY + "&search=" + search;
+    <td style="color:Black;" >
+        <a th:href="@{/Database/personupdate/{id}(id = ${person.id})}">Update</a>
+        <a th:href="@{/Database/persondelete/{id}(id = ${person.id})}">Delete</a>
+    </td>
+</tr>
 ```
-
-
-
