@@ -26,7 +26,7 @@ We all like video games and we want a way to look for new games to play. To do t
 - Retro games
 - neon colors
 - Windex color
-- #05c4c4
+- #05c4c4 
 ### Alternate theme
 - Neon blue to neon red
 
