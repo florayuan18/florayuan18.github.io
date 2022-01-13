@@ -28,13 +28,15 @@ Example of Valorant Search:
 
 ![Valorant](/assets/img/valorantsearch.png)
 
-And here is the same code with syntax highlighting:
+Sample Code for API:
 
 ```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
+public class SearchCTRL {
+  @GetMapping("/search")
+  public String RawgAPI(@RequestParam(name="search", required=true, defaultValue= "") String search, Model model) throws IOException, InterruptedException, ParseException, JSONException {
+
+  String KEY = "42771867b81b456496770e0c1c15d4f2";
+  String url = "https://api.rawg.io/api/games?key=" + KEY + "&search=" + search;
 ```
 
 
