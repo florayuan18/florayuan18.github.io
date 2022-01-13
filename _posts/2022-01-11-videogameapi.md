@@ -6,7 +6,7 @@ cover-img: /assets/img/videogamebackground.jpg
 thumbnail-img: /assets/img/rawgapi.png
 share-img: /assets/img/videogamebackground.jpg
 gh-repo: daattali/beautiful-jekyll
-tags: [api, video game]
+tags: [api, video game, game, rawg, search, search bar, searchbar]
 comments: true
 
 ---
