@@ -44,6 +44,8 @@ Execute these lines in terminal:
 7. `sudo ln -s /etc/nginx/sites-available/pikachudrinkingwindex /etc/nginx/sites-enabled`
 8. `sudo nginx -t`
 9. `sudo systemctl restart nginx`
+   ![service.png](/assets/img/service.png)
+   ![nginx.png](/assets/img/nginx.png)
 
 ## Creating a custom domain name using Freenom
 1. head to freenom.com
@@ -56,7 +58,7 @@ Execute these lines in terminal:
 8. then click on "Manage Freenom DNS"
 9. head to "Register glue records"
 10. obtain your external IP address using "What is my IP Address"\
-    ![freenom.png](https://github.com/florayuan18/pikachudrinkingwindex/blob/master/src/main/resources/static/images/freenom.png)
+    ![freenom.png](/assets/img/freenom.png)
 
 ## Port forwarding
 1. login to home router app/web
