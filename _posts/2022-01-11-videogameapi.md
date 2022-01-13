@@ -6,7 +6,6 @@ cover-img: /assets/img/videogamebackground.jpg
 thumbnail-img: /assets/img/rawgapi.png
 share-img: /assets/img/videogamebackground.jpg
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 tags: [api, video game]
 comments: true
 
@@ -22,20 +21,6 @@ comments: true
 
 
 
-This is a sample for how issues will start to look.
-
-**Here is some bold text**
-
-## Here is a secondary heading
-
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
 
 
 How about a yummy crepe?
