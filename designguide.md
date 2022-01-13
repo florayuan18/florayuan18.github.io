@@ -30,7 +30,7 @@ We all like video games and we want a way to look for new games to play. To do t
 ### Alternate theme
 - Neon blue to neon red
 
-![PikachuDrinkingWindex.png](/assets/img/PikachuDrinkingWindex)
+  ![pikachu](/assets/img/PikachuDrinkingWindex.png)
 ### Nav Bar:
 * Home: scroll transitions, banner with name (WindexGames), adorable logo, very short description of features
 * Search page: Game API - search function, filter by category, cards, spotlight
