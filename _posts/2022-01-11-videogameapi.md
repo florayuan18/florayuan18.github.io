@@ -22,6 +22,14 @@ comments: true
 ### Updates
 
 {: .box-note}
+**01/14/22:** Games displayed with cards & filters implemented (rating and runtime).
+
+Example of Valorant Search with Rating Filter:
+
+![Rated Valorant](/assets/img/valorantsearch_cards.png)
+
+
+{: .box-note}
 **01/12/22:** Search Bar has been implemented.
 
 Example of Valorant Search:
