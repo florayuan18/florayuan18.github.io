@@ -22,8 +22,8 @@ navbar-links:
     - Github Guide: "githubguide"
     - Technical Guide: "technicalguide"
   Java Terms:
-    - KFC:
-    - MC:
+    - KFC: "kfc"
+    - MC: "mc"
   Umbrella Box: "http://umbrellabox.cf/"
   About: "about"
 # --- Logo --- #
