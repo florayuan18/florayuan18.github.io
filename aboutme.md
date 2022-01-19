@@ -4,7 +4,7 @@ title: ReadMe
 subtitle: PikachuDrinkingWindex ReadMe
 ---
 # Week 5 Issues
-| Team Member           | Roles |           Issues                              | 
+| Team Member           | Roles |           Issues                              |
 | -------------------------- |-----------------------------|-----------------------------|  
 | Calvin Cheah  | Technical Officer| [Search Bar](https://github.com/florayuan18/pikachudrinkingwindex/issues/31) |
 | Crystal Widjaja | Scrum Leader | [Search Bar Cards](https://github.com/florayuan18/pikachudrinkingwindex/issues/22) |
