@@ -71,7 +71,7 @@ _Definition:_ Using the equals() method
 _Definition:_
 - Repeats a specific block of code for known number of times
 - Parts: initialization, Boolean expression, and increment
-- If true, loop executes statements in body | If false, exit for loop
+- If true, loop executes statements in body and if false, exit for loop
 
 _Example:_
 ``` javascript
@@ -89,8 +89,8 @@ for (int num = 1; num <= 10; num++)
 ## 13. while loop versus do while loop
 _Definition:_
 - Executed based on a given Boolean condition
-- If true, loop continues | If false, loop stops
-- Condition can be specified | while (number > 100)
+- If true, loop continues and if false, loop stops
+- Condition can be specified -> while (number > 100)
 
 _Example:_
 ``` javascript
@@ -109,7 +109,7 @@ public static void main(String[] args)
 ## 14. nested loops
 _Definition:_ One loop inside another loop
 
-[_Example:_](https://github.com/florayuan18/pikachudrinkingwindex/blob/2ddbc249a430fbb2aad434a0[…]tfolio/controllers/CalvinAboutMVC/CalvinFRQ/FRQ_4/CoinGame.java)
+[_Example:_](https://github.com/florayuan18/pikachudrinkingwindex/blob/2ddbc249a430fbb2aad434a02a9b88e93763c8c4/src/main/java/com/example/sping_portfolio/controllers/CalvinAboutMVC/CalvinFRQ/FRQ_4/CoinGame.java#L71-L126)
 
 ## 15. Big O notation (Hash map, Binary Search, Single loop, Nested Loop)
 _Definition:_ 
