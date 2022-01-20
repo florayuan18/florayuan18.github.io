@@ -152,7 +152,7 @@ _Definition:_
 _Example:_
 ``` javascript
 public class Animal{
-[example information]
+// information goes here
 }
 public class Dog extends Animal{
 }
@@ -197,10 +197,42 @@ _Definition:_
 - Known as method hiding if static method is defined with same signature in base class
 
 _Example:_
+``` javascript
+public class Drink{
+    public static void testClassMethod() {
+        System.out.println("The static method in Drink");
+    }
+    public void testInstanceMethod() {
+        System.out.println("The instance method in Drink");
+    }
+}
 
+
+public class Boba extends Drink{
+    public static void testClassMethod() {
+        System.out.println("The static method in Boba");
+    }
+    public void testInstanceMethod() {
+        System.out.println("The instance method in Boba");
+    }
+```
 
 ## 28. Abstract Class, Abstract Method
+_Definition:_
+- Abstract Class: hide implementation complexities by providing functionalities on a simpler interface
+- Abstract Method: 
+  - A method with no body (implementation)
+  - Rules: 1) no body, 2) classes that have abstract methods should be declared abstract, 3) extending abstract class - must implement abstract parent class
+
+_Example:_
+``` javascript
+public abstract int pikachu(int n1, int n2);
+```
+
 ## 29. Object superclass methods: toString(), compare(), clone()
+_Definition:_
+- toString(): representing an object as a string - readable to human
+
 ## 30. Late binding of object, referencing superclass object, ie Animal a = new Chicken(); Animal b = new Goat();
 ## 31. Polymorphism: any of overloading, overriding, late binding
 ## 32. Web API, REST, FETCH, Async, Request, Response
