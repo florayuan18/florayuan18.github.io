@@ -61,6 +61,8 @@ _Definition:_
 ## 9. Comparing Numbers
 _Definition:_ Primitive variables compared using ==, also known as the equality operator, should be compatible between argument types
 
+[_Example:_](https://github.com/florayuan18/pikachudrinkingwindex/blob/2ddbc249a430fbb2aad434a0[…]rtfolio/controllers/CalvinAboutMVC/CalvinFRQ/FRQ_3/FRQ3_P1.java)
+
 ## 10. Comparing Strings
 ## 11. Comparing Objects
 _Definition:_ Using the equals() method
@@ -219,8 +221,8 @@ public class Boba extends Drink{
 
 ## 28. Abstract Class, Abstract Method
 _Definition:_
-- Abstract Class: hide implementation complexities by providing functionalities on a simpler interface
-- Abstract Method: 
+- **Abstract Class**: hide implementation complexities by providing functionalities on a simpler interface
+- **Abstract Method**: 
   - A method with no body (implementation)
   - Rules: 1) no body, 2) classes that have abstract methods should be declared abstract, 3) extending abstract class - must implement abstract parent class
 
@@ -231,9 +233,68 @@ public abstract int pikachu(int n1, int n2);
 
 ## 29. Object superclass methods: toString(), compare(), clone()
 _Definition:_
-- toString(): representing an object as a string - readable to human
+- **toString()**: representing an object as a string - readable to human
+  - When printing an object, Java invokes toString() method - returns String representation of object
+  - Overriding toString() method - able to return value of object
+
+_Example:_
+Without toString():
+``` javascript
+public static void main(String args[]){  
+   Student s1=new Student(101,"Calvin","pikachu");  
+   Student s2=new Student(102,"Kira","windex");  
+     
+   System.out.println(s1);//compiler writes here s1.toString()  
+   System.out.println(s2);//compiler writes here s2.toString()  
+```
+Prints out Hash
+
+With toString():
+``` javascript
+public String toString(){//overriding the toString() method  
+return rollno+" "+name+" "+city;  
+}  
+public static void main(String args[]){  
+   Student s1=new Student(101,"Calvin","pikachu");  
+   Student s2=new Student(102,"Kira","windex");  
+
+System.out.println(s1);//compiler writes here s1.toString()  
+System.out.println(s2);//compiler writes here s2.toString()  
+}
+```
+Prints:
+101 Calvin pikachu
+102 Kira windex
+
+- **compare()**: compares two class-specific objects
+  - 0: if (x==y)
+  - 
+- creating an exact copy of an object - new instance but same contents initialized
+  - Changes on one (shallow copy) will be reflected on another
+  - Deep copy - copies fields and makes copies - dynamically allocated memory
+  - Advantages: if copy constructor is used - data has to be copied explicitly
+    - Many have to reassign all fields
+      Cloning avoids the extra processing
+
+_Example:_
+``` javascript
+ Test c = new Test();
+ 
+    public Object clone() throws CloneNotSupportedException
+    {
+        // Assign the shallow copy to
+        // new reference variable t
+        Test2 t = (Test2)super.clone();
+ 
+        // Creating a deep copy for c
+        t.c = new Test();
+        t.c.x = c.x;
+        t.c.y = c.y;
+```
 
 ## 30. Late binding of object, referencing superclass object, ie Animal a = new Chicken(); Animal b = new Goat();
+
+
 ## 31. Polymorphism: any of overloading, overriding, late binding
 ## 32. Web API, REST, FETCH, Async, Request, Response
 ## 33. CRUD
