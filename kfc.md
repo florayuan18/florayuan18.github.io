@@ -61,7 +61,7 @@ _Definition:_
 ## 9. Comparing Numbers
 _Definition:_ Primitive variables compared using ==, also known as the equality operator, should be compatible between argument types
 
-[_Example:_](https://github.com/florayuan18/pikachudrinkingwindex/blob/2ddbc249a430fbb2aad434a0[…]rtfolio/controllers/CalvinAboutMVC/CalvinFRQ/FRQ_3/FRQ3_P1.java)
+[_Example:_](https://github.com/florayuan18/pikachudrinkingwindex/blob/2ddbc249a430fbb2aad434a02a9b88e93763c8c4/src/main/java/com/example/sping_portfolio/controllers/CalvinAboutMVC/CalvinFRQ/FRQ_3/FRQ3_P1.java#L34-L39)
 
 ## 10. Comparing Strings
 ## 11. Comparing Objects
