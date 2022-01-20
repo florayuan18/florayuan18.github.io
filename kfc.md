@@ -109,6 +109,8 @@ public static void main(String[] args)
 ## 14. nested loops
 _Definition:_ One loop inside another loop
 
+[_Example:_](https://github.com/florayuan18/pikachudrinkingwindex/blob/2ddbc249a430fbb2aad434a0[…]tfolio/controllers/CalvinAboutMVC/CalvinFRQ/FRQ_4/CoinGame.java)
+
 ## 15. Big O notation (Hash map, Binary Search, Single loop, Nested Loop)
 _Definition:_ 
 - n^2 -> nested for loop
@@ -268,8 +270,18 @@ Prints:
 
 - **compare()**: compares two class-specific objects
   - 0: if (x==y)
-  - 
-- creating an exact copy of an object - new instance but same contents initialized
+  - -1: if (x < y)
+  - 1: if (x > y)
+
+_Example:_
+``` javascript
+System.out.println(Integer.compare(x, y));
+int w = 15;
+int z = 8;
+```
+Prints 1 because 15 > 8
+
+- **clone()**: creating an exact copy of an object - new instance but same contents initialized
   - Changes on one (shallow copy) will be reflected on another
   - Deep copy - copies fields and makes copies - dynamically allocated memory
   - Advantages: if copy constructor is used - data has to be copied explicitly
@@ -293,8 +305,80 @@ _Example:_
 ```
 
 ## 30. Late binding of object, referencing superclass object, ie Animal a = new Chicken(); Animal b = new Goat();
+_Definition:_
+- Type is unknown until variable is exercised during runtime (decided at runtime)
+- How polymorphism is implemented, dynamic types
+- Example: Overriding  both parent and child classes have same method
 
+_Example:_
+``` javascript
+public class NewClass {
+    public static class superclass {
+        void print()
+        {
+            System.out.println("print in superclass.");
+        }
+    }
+  
+    public static class subclass extends superclass {
+        @Override
+        void print()
+        {
+            System.out.println("print in subclass.");
+        }
+    }
+```
 
 ## 31. Polymorphism: any of overloading, overriding, late binding
+_Definition:_
+- Ability of an object to take many forms
+- Same action in multiple ways
+- Compile-time polymorphism (method overloading) and run time polymorphism
+
+_Runtime Polymorphism Example:_
+Animal.java
+``` javascript
+public class Animal{
+   public void sound(){
+      System.out.println("Animal is making a sound");   
+   }
+}
+```
+
+Horse.java
+``` javascript
+class Horse extends Animal{
+    @Override
+    public void sound(){
+        System.out.println("Neigh");
+    }
+    public static void main(String args[]){
+    	Animal obj = new Horse();
+    	obj.sound();
+    }
+}
+```
+
+_Compile Time Polymorphism Example:_
+``` javascript
+class Overload
+{
+    <filler code yeah>
+}
+class MethodOverloading
+{
+    public static void main (String args [])
+    {
+        Overload Obj = new Overload();
+        double result;
+        Obj .demo(10);
+        Obj .demo(10, 20);
+        result = Obj .demo(5.5);
+        System.out.println("O/P : " + result);
+    }
+}
+```
+
+
 ## 32. Web API, REST, FETCH, Async, Request, Response
 ## 33. CRUD
