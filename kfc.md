@@ -91,6 +91,7 @@ _Definition:_
 - Condition can be specified | while (number > 100)
 
 _Example:_
+``` javascript
 public static void main(String[] args)
 {
     int value = 1;
@@ -101,6 +102,7 @@ public static void main(String[] args)
     }
     System.out.println(“Loop Completed”);
 }
+```
 
 ## 14. nested loops
 _Definition:_ One loop inside another loop
@@ -134,12 +136,69 @@ _Definition:_ Methods that can be called without creating on object of class. Fo
 
 ## 22. this Keyword
 _Definition:_
+- Using standard convention of the instance variable
+- dist.name=name
+- Need to use “this”
 
 ## 23. main method, tester methods
+_Definition:_ Tester methods - Used in console running, public static void main(String[] args)
+
 ## 24. Inheritance, extends
+_Definition:_
+- One class (sub class) inherits the features of another class (super class)
+- Reusing existing information in classes for other classes
+- Uses the word **extends**
+
+_Example:_
+``` javascript
+public class Animal{
+[example information]
+}
+public class Dog extends Animal{
+}
+```
+
 ## 25. Subclass constructor, super Keyword
+_Definition:_ If the method overrides the superclass’s methods, overridden method can be invoked using the keyword _super_
+
+_Example:_
+``` javascript
+public void printMethod() {
+     super.printMethod();
+     System.out.println("Printed in Subclass");
+}
+```
+
 ## 26. Overloading a method, same name different parameters
+_Definition:_
+- Two of more methods of the same name in class, also known as compiletime polymorphism
+- Can be used to invoke different parameters
+
+_Example:_
+``` javascript
+class Dog{
+    public void bark(){
+        System.out.println("woof ");
+    }
+ 
+    //overloading method
+    public void bark(int num){
+    	for(int i=0; i<num; i++)
+    		System.out.println("woof ");
+    }
+}
+```
+
 ## 27. Overriding a method, same signature of a method
+_Definition:_
+- When a method in a subclass has the same name, same parameters or signature, and same return type - method in subclass overrides the superclass
+- Overriding lets child class implement a method already in the parent class
+- Also known as runtime polymorphism
+- Known as method hiding if static method is defined with same signature in base class
+
+_Example:_
+
+
 ## 28. Abstract Class, Abstract Method
 ## 29. Object superclass methods: toString(), compare(), clone()
 ## 30. Late binding of object, referencing superclass object, ie Animal a = new Chicken(); Animal b = new Goat();
