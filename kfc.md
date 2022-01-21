@@ -62,7 +62,7 @@ _Definition:_ How two logical conditions are combined based on AND, OR, and NOT
 _Definition:_ 
 - Not (A and B) is the same as Not A or Not B.
 - Not (A or B) is the same as Not A and Not B.
-- The \| is "or" and "&&" is and. For or, either statement has to be true in order for the boolean to be true, and for "&&" both statements have to be true in order for the boolean to be true.
+- The \|\| is "or" and "&&" is and. For or, either statement has to be true in order for the boolean to be true, and for "&&" both statements have to be true in order for the boolean to be true.
 
 [_Example:_](https://github.com/florayuan18/pikachudrinkingwindex/blob/master/src/main/java/com/example/sping_portfolio/controllers/CalvinAboutMVC/CalvinFRQ/FRQ_4/CoinGame.java#L80-L83)
 
