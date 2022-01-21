@@ -427,29 +427,29 @@ _Definition:_
 - Breaks down a transaction to create a series of small modules
 - 
 
-[_REST Example_]()
+[_REST Example_](https://github.com/florayuan18/pikachudrinkingwindex/blob/5a02cdb9d6d0e25a170dcdc09109e9813bbdea03/src/main/java/com/example/sping_portfolio/controllers/SearchCTRL.java#L24-L95)
 
 - **FETCH**:
 _Definition:_
 
-[_FETCH Example_]()
+[_FETCH Example_]https://github.com/florayuan18/pikachudrinkingwindex/blob/5a02cdb9d6d0e25a170dcdc09109e9813bbdea03/src/main/resources/templates/AsyncAPI/AsyncAPIHTML.html#L8-L53()
 
 - **Async**:
 _Definition:_
 
-[_Async Example_]()
+[_Async Example_](https://github.com/florayuan18/pikachudrinkingwindex/blob/5a02cdb9d6d0e25a170dcdc09109e9813bbdea03/src/main/resources/templates/AsyncAPI/AsyncAPIHTML.html#L8-L53)
 
 - **Request**:
 _Definition:_
 
-[_Request Example_]()
+[_Request Example_](https://github.com/florayuan18/pikachudrinkingwindex/blob/5a02cdb9d6d0e25a170dcdc09109e9813bbdea03/src/main/java/com/example/sping_portfolio/controllers/SearchCTRL.java#L24-L95)
 
 - **Response**:
 _Definition:_
 
-[_Response Example_]()
+[_Response Example_](https://github.com/florayuan18/pikachudrinkingwindex/blob/5a02cdb9d6d0e25a170dcdc09109e9813bbdea03/src/main/java/com/example/sping_portfolio/controllers/SearchCTRL.java#L24-L95)
 
 ## 33. CRUD
 _Definition:_
 
-[_CRUD Example_]()
+[_CRUD Example_](https://github.com/florayuan18/pikachudrinkingwindex/tree/master/src/main/java/com/example/sping_portfolio/SQL)
