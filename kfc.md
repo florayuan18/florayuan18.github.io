@@ -29,7 +29,9 @@ ArrayList<Integer> myNumbers = new ArrayList<Integer>(); // Valid
 ```
 
 ## 4. Concatenation, rules on mixed type Concatenation
+_Definition:_ Use the + Operator
 
+[_Example:_](https://github.com/florayuan18/pikachudrinkingwindex/blob/master/src/main/java/com/example/sping_portfolio/controllers/FloraFRQ/FloraInvitation.java#L21-L23)
 
 ## 5. Math class, specifically Random usage
 _Definition:_ The class Math contains methods for performing basic numeric operations such as the elementary exponential, logarithm, square root, and trigonometric functions.
@@ -48,9 +50,13 @@ _Definition:_
 - greater than or equal to is ">="
 - <= less than or equal to
 
+[_Example:_](https://github.com/florayuan18/pikachudrinkingwindex/blob/master/src/main/java/com/example/sping_portfolio/controllers/FloraFRQ/FloraUnit4Hack.java#L23)
+
 ## 7. Truth Tables
 _Definition:_ How two logical conditions are combined based on AND, OR, and NOT
 ![truthtable](/assets/img/truthtable.png)
+
+[_Example:_](https://github.com/florayuan18/pikachudrinkingwindex/blob/master/src/main/java/com/example/sping_portfolio/controllers/CalvinAboutMVC/CalvinFRQ/FRQ_4/CoinGame.java#L50-L56)
 
 ## 8. De Morgan's Law
 _Definition:_ 
@@ -58,14 +64,22 @@ _Definition:_
 - Not (A or B) is the same as Not A and Not B.
 - The "||" is "or" and "&&" is and. For "||", either statement has to be true in order for the boolean to be true, and for "&&" both statements have to be true in order for the boolean to be true.
 
+[_Example:_](https://github.com/florayuan18/pikachudrinkingwindex/blob/master/src/main/java/com/example/sping_portfolio/controllers/CalvinAboutMVC/CalvinFRQ/FRQ_4/CoinGame.java#L80-L83)
+
 ## 9. Comparing Numbers
 _Definition:_ Primitive variables compared using ==, also known as the equality operator, should be compatible between argument types
 
 [_Example:_](https://github.com/florayuan18/pikachudrinkingwindex/blob/2ddbc249a430fbb2aad434a02a9b88e93763c8c4/src/main/java/com/example/sping_portfolio/controllers/CalvinAboutMVC/CalvinFRQ/FRQ_3/FRQ3_P1.java#L34-L39)
 
 ## 10. Comparing Strings
+_Definition:_ equals() method to compare the actual value of a String, or == to compare if the String points to the same java object
+
+[_Example:_](https://github.com/florayuan18/pikachudrinkingwindex/blob/master/src/main/java/com/example/sping_portfolio/controllers/FloraFRQ/FloraDinner.java#L66-L71)
+
 ## 11. Comparing Objects
 _Definition:_ Using the equals() method
+
+[_Example:_](https://github.com/florayuan18/pikachudrinkingwindex/blob/master/src/main/java/com/example/sping_portfolio/controllers/FloraFRQ/FloraDinner.java#L66-L71)
 
 ## 12. for loop, enhanced for loop
 _Definition:_
@@ -123,29 +137,49 @@ _Definition:_
 - Naming conventions: capital letters instead of a space
 - Methods: lowercase and capital (camel case)
 
+[_Example:_](https://github.com/florayuan18/pikachudrinkingwindex/blob/master/src/main/java/com/example/sping_portfolio/controllers/FloraFRQ/FloraLightSequence.java#L14)
+
 ## 17. Constructor, describe why there is no return
 _Definition:_ Constructor is a non-static method with name <init> and void return type. It does not return anything.
+
+[_Example:_](https://github.com/florayuan18/pikachudrinkingwindex/blob/master/src/main/java/com/example/sping_portfolio/controllers/FloraFRQ/FloraInvitation.java#L16-L18)
 
 ## 18. Accessor methods, relationship to getter
 _Definition:_ “Getters” retrieve information about an object
 
+[_Example:_](https://github.com/florayuan18/pikachudrinkingwindex/blob/master/src/main/java/com/example/sping_portfolio/controllers/FloraFRQ/FloraInvitation.java#L7-L9)
+
 ## 19. Mutator methods, relationship to setter, describe void return type
 _Definition:_ “Setters” replace information about an object
 
+[_Example:_](https://github.com/florayuan18/pikachudrinkingwindex/blob/master/src/main/java/com/example/sping_portfolio/controllers/FloraFRQ/FloraInvitation.java#L11-L14)
+
 ## 20. Static variables, Class variables
-_Definition:_ Declared with the static keyword
+_Definition:_ Declared with the static keyword & belong to a class
+
+[_Example:_](https://github.com/florayuan18/pikachudrinkingwindex/blob/master/src/main/java/com/example/sping_portfolio/controllers/FloraFRQ/FloraPasswordGenerator.java#L5)
 
 ## 21. Static methods, Class methods
 _Definition:_ Methods that can be called without creating on object of class. For example, the main() method. They can only call other static methods.
+
+[_Example:_](https://github.com/florayuan18/pikachudrinkingwindex/blob/master/src/main/java/com/example/sping_portfolio/controllers/CalvinAboutMVC/CalvinFRQ/FRQ_5/PasswordGenerator.java#L35)
 
 ## 22. this Keyword
 _Definition:_
 - Using standard convention of the instance variable
 - dist.name=name
 - Need to use “this”
+- refers to current object in a method or constructor
+
+[_Example:_](https://github.com/florayuan18/pikachudrinkingwindex/blob/master/src/main/java/com/example/sping_portfolio/controllers/FloraFRQ/FloraPasswordGenerator.java#L11-L12)
 
 ## 23. main method, tester methods
-_Definition:_ Tester methods - Used in console running, public static void main(String[] args)
+_Definition:_ 
+- **Main Method**: minimal work and runs the project
+- **Tester Method**: Used in console running, used to determine if code is working
+
+[_Main Method Example:_](https://github.com/florayuan18/pikachudrinkingwindex/blob/master/src/main/java/com/example/sping_portfolio/Main.java)
+[_Tester Method Example:_](https://github.com/florayuan18/pikachudrinkingwindex/blob/master/src/main/java/com/example/sping_portfolio/controllers/CalvinAboutMVC/CalvinFRQ/LightSequence.java)
 
 ## 24. Inheritance, extends
 _Definition:_
@@ -379,9 +413,8 @@ class MethodOverloading
 }
 ```
 
-
 ## 32. Web API, REST, FETCH, Async, Request, Response
-_Definition:_
-
+[_API:_](https://github.com/florayuan18/pikachudrinkingwindex/blob/master/src/main/java/com/example/sping_portfolio/controllers/SearchCTRL.java#L50-L68)
 
 ## 33. CRUD
+_CRUD:_
