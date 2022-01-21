@@ -62,7 +62,7 @@ _Definition:_ How two logical conditions are combined based on AND, OR, and NOT
 _Definition:_ 
 - Not (A and B) is the same as Not A or Not B.
 - Not (A or B) is the same as Not A and Not B.
-- The \|\| is "or" and "&&" is and. For or, either statement has to be true in order for the boolean to be true, and for "&&" both statements have to be true in order for the boolean to be true.
+- The \|\| is "or" and && is "and". For \|\|, either statement has to be true in order for the boolean to be true, and for && both statements have to be true in order for the boolean to be true.
 
 [_Example:_](https://github.com/florayuan18/pikachudrinkingwindex/blob/master/src/main/java/com/example/sping_portfolio/controllers/CalvinAboutMVC/CalvinFRQ/FRQ_4/CoinGame.java#L80-L83)
 
@@ -175,7 +175,7 @@ _Definition:_
 
 ## 23. main method, tester methods
 _Definition:_ 
-- **Main Method**: minimal work and runs the project
+- **Main Method**: Runs the project
 - **Tester Method**: Used in console running, used to determine if code is working
 
 [_Main Method Example:_](https://github.com/florayuan18/pikachudrinkingwindex/blob/master/src/main/java/com/example/sping_portfolio/Main.java)
@@ -414,6 +414,8 @@ class MethodOverloading
 ```
 
 ## 32. Web API, REST, FETCH, Async, Request, Response
+- **API**
+
 [_API:_](https://github.com/florayuan18/pikachudrinkingwindex/blob/master/src/main/java/com/example/sping_portfolio/controllers/SearchCTRL.java#L50-L68)
 
 ## 33. CRUD
