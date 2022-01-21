@@ -414,9 +414,42 @@ class MethodOverloading
 ```
 
 ## 32. Web API, REST, FETCH, Async, Request, Response
-- **API**
+- **API**:
+_Definition:_ 
+- Stands for application programming interface
+- A set of classes that sends the data to a server + server takes requests and gives information back to the device
 
-[_API:_](https://github.com/florayuan18/pikachudrinkingwindex/blob/master/src/main/java/com/example/sping_portfolio/controllers/SearchCTRL.java#L50-L68)
+[_API Example_](https://github.com/florayuan18/pikachudrinkingwindex/blob/master/src/main/java/com/example/sping_portfolio/controllers/SearchCTRL.java#L50-L68)
+
+- **REST**:
+_Definition:_
+- Stands for representational state transfer
+- Breaks down a transaction to create a series of small modules
+- 
+
+[_REST Example_]()
+
+- **FETCH**:
+_Definition:_
+
+[_FETCH Example_]()
+
+- **Async**:
+_Definition:_
+
+[_Async Example_]()
+
+- **Request**:
+_Definition:_
+
+[_Request Example_]()
+
+- **Response**:
+_Definition:_
+
+[_Response Example_]()
 
 ## 33. CRUD
-_CRUD:_
+_Definition:_
+
+[_CRUD Example_]()
