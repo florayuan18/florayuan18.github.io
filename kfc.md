@@ -446,7 +446,7 @@ _Definition:_
 _Definition:_
 - Information sent back by the API upon receiving a request
 
-## 33. CRUD
+## 33. CRUD 
 _Definition:_ 
 - Create, Read, Update, and Delete
 - retrieve and return data from a database
