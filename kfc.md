@@ -30,6 +30,7 @@ ArrayList<Integer> myNumbers = new ArrayList<Integer>(); // Valid
 
 ## 4. Concatenation, rules on mixed type Concatenation
 _Definition:_ Use the + Operator
+- String.parseString(int) + "string" or Integer.toString(int)
 
 [_Example:_](https://github.com/florayuan18/pikachudrinkingwindex/blob/master/src/main/java/com/example/sping_portfolio/controllers/FloraFRQ/FloraInvitation.java#L21-L23)
 
@@ -419,37 +420,35 @@ _Definition:_
 - Stands for application programming interface
 - A set of classes that sends the data to a server + server takes requests and gives information back to the device
 
-[_API Example_](https://github.com/florayuan18/pikachudrinkingwindex/blob/master/src/main/java/com/example/sping_portfolio/controllers/SearchCTRL.java#L50-L68)
+[_API Example_](https://github.com/florayuan18/pikachudrinkingwindex/blob/master/src/main/java/com/example/sping_portfolio/controllers/SearchCTRL.java)
 
 - **REST**:
 _Definition:_
-- Stands for representational state transfer
+- Stands for REpresentational State Transfer
 - Breaks down a transaction to create a series of small modules
-- 
-
-[_REST Example_]()
 
 - **FETCH**:
 _Definition:_
-
-[_FETCH Example_]()
+- Accessing and manipulating parts for HTTP requests and responses
 
 - **Async**:
 _Definition:_
+- Asynchronous in order to be documented and maintained
 
-[_Async Example_]()
+[_Async Example_](https://github.com/florayuan18/pikachudrinkingwindex/blob/master/src/main/resources/templates/AsyncAPI/AsyncAPIHTML.html)
 
 - **Request**:
 _Definition:_
+- Request information to receive
 
-[_Request Example_]()
 
 - **Response**:
 _Definition:_
-
-[_Response Example_]()
+- Information sent back by the API upon receiving a request
 
 ## 33. CRUD
-_Definition:_
+_Definition:_ 
+- Create, Read, Update, and Delete
+- retrieve and return data from a database
 
 [_CRUD Example_]()
