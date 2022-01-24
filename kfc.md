@@ -30,7 +30,7 @@ ArrayList<Integer> myNumbers = new ArrayList<Integer>(); // Valid
 
 ## 4. Concatenation, rules on mixed type Concatenation
 _Definition:_ Use the + Operator
-- String.parseString(int) + "string" or Integer.toString(int)
+- String.parseString(int) + "string" or Integer.toString(int) + "string"
 
 [_Example:_](https://github.com/florayuan18/pikachudrinkingwindex/blob/master/src/main/java/com/example/sping_portfolio/controllers/FloraFRQ/FloraInvitation.java#L21-L23)
 
@@ -57,7 +57,7 @@ _Definition:_
 _Definition:_ How two logical conditions are combined based on AND, OR, and NOT
 ![truthtable](/assets/img/truthtable.png)
 
-[_Example:_](https://github.com/florayuan18/pikachudrinkingwindex/blob/master/src/main/java/com/example/sping_portfolio/controllers/CalvinAboutMVC/CalvinFRQ/FRQ_4/CoinGame.java#L50-L56)
+[_Example:_](https://github.com/florayuan18/pikachudrinkingwindex/blob/master/src/main/java/com/example/sping_portfolio/controllers/CalvinAboutMVC/CalvinFRQ/FRQ_4/CoinGame.java#L80)
 
 ## 8. De Morgan's Law
 _Definition:_ 
@@ -65,7 +65,18 @@ _Definition:_
 - Not (A or B) is the same as Not A and Not B.
 - The \|\| is "or" and && is "and". For \|\|, either statement has to be true in order for the boolean to be true, and for && both statements have to be true in order for the boolean to be true.
 
-[_Example:_](https://github.com/florayuan18/pikachudrinkingwindex/blob/master/src/main/java/com/example/sping_portfolio/controllers/CalvinAboutMVC/CalvinFRQ/FRQ_4/CoinGame.java#L80-L83)
+_Example:_
+```javascript
+public class pikachu
+{
+  public static void main(String[] args)
+{
+  int x = 2;
+  int y = 3;
+  System.out.println(!(x < 3 && y > 2));
+}
+}
+```
 
 ## 9. Comparing Numbers
 _Definition:_ Primitive variables compared using ==, also known as the equality operator, should be compatible between argument types
@@ -73,7 +84,7 @@ _Definition:_ Primitive variables compared using ==, also known as the equality 
 [_Example:_](https://github.com/florayuan18/pikachudrinkingwindex/blob/2ddbc249a430fbb2aad434a02a9b88e93763c8c4/src/main/java/com/example/sping_portfolio/controllers/CalvinAboutMVC/CalvinFRQ/FRQ_3/FRQ3_P1.java#L34-L39)
 
 ## 10. Comparing Strings
-_Definition:_ equals() method to compare the actual value of a String, or == to compare if the String points to the same java object
+_Definition:_ equals() method to compare the actual value of a String
 
 [_Example:_](https://github.com/florayuan18/pikachudrinkingwindex/blob/master/src/main/java/com/example/sping_portfolio/controllers/FloraFRQ/FloraDinner.java#L66-L71)
 
@@ -132,9 +143,17 @@ _Definition:_
 - Can calculate how long it takes a loop to find "i"
 - Time complexity, used instead of raw time, used to help find the most efficient algorithm
 - How long it would take relative to the data input/size
+- Hash map --> O(1)
+- Binary Search --> O(log N)
+- Single loop --> O(n)
+- Nested Loop --> O(n^2)
+
+![bigo](/assets/img/bigo.jpg)
+![hashmap](/assets/img/hashmap.png)
 
 ## 16. Creating a Class, describe Naming Conventions
 _Definition:_
+- The blueprint for which individual objects are created
 - Naming conventions: capital letters instead of a space
 - Methods: lowercase and capital (camel case)
 
@@ -143,7 +162,7 @@ _Definition:_
 ## 17. Constructor, describe why there is no return
 _Definition:_ Constructor is a non-static method with name <init> and void return type. It does not return anything.
 
-[_Example:_](https://github.com/florayuan18/pikachudrinkingwindex/blob/master/src/main/java/com/example/sping_portfolio/controllers/FloraFRQ/FloraInvitation.java#L16-L18)
+[_Example:_](https://github.com/florayuan18/pikachudrinkingwindex/blob/master/src/main/java/com/example/sping_portfolio/controllers/CalvinAboutMVC/CalvinFRQ/FRQ_5/Invitation.java#L7-L9)
 
 ## 18. Accessor methods, relationship to getter
 _Definition:_ “Getters” retrieve information about an object
