@@ -434,6 +434,7 @@ _Definition:_
 - **Async**:
 _Definition:_
   - Asynchronous in order to be documented and maintained
+  - More efficient method
 
 [_Async Example_](https://github.com/florayuan18/pikachudrinkingwindex/blob/master/src/main/resources/templates/AsyncAPI/AsyncAPIHTML.html)
 
