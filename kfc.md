@@ -172,7 +172,12 @@ _Definition:_ “Getters” retrieve information about an object
 ## 19. Mutator methods, relationship to setter, describe void return type
 _Definition:_ “Setters” replace information about an object
 
-[_Example:_](https://github.com/florayuan18/pikachudrinkingwindex/blob/master/src/main/java/com/example/sping_portfolio/controllers/FloraFRQ/FloraInvitation.java#L11-L14)
+_Example:_
+```javascript
+public void setLastName(String last){
+    this.lastName = last;
+}
+```
 
 ## 20. Static variables, Class variables
 _Definition:_ Declared with the static keyword & belong to a class
