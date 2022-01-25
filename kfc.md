@@ -181,34 +181,40 @@ public void setLastName(String last){
 
 ## 20. Static variables, Class variables
 _Definition:_ Declared with the static keyword & belong to a class
+- When declared as static, single copy of variable is created
+- Shared among all objects in a class
 
-[_Example:_](https://github.com/florayuan18/pikachudrinkingwindex/blob/master/src/main/java/com/example/sping_portfolio/controllers/FloraFRQ/FloraPasswordGenerator.java#L5)
+[_Example:_](https://github.com/florayuan18/pikachudrinkingwindex/blob/master/src/main/java/com/example/sping_portfolio/controllers/CalvinAboutMVC/CalvinFRQ/FRQ_5/PasswordGenerator.java#L8)
 
 ## 21. Static methods, Class methods
-_Definition:_ Methods that can be called without creating on object of class. For example, the main() method. They can only call other static methods.
+_Definition:_ Methods that can be called without creating object of class.
+- Accessed before objects of class are created
+- Without reference to any object
+- Can only directly call other static methods
+- Most common example is main() method
 
 [_Example:_](https://github.com/florayuan18/pikachudrinkingwindex/blob/master/src/main/java/com/example/sping_portfolio/controllers/CalvinAboutMVC/CalvinFRQ/FRQ_5/PasswordGenerator.java#L35)
 
 ## 22. this Keyword
 _Definition:_
 - Using standard convention of the instance variable
-- dist.name=name
+- this.name=name
+  - References the global variable
 - Need to use “this”
-- refers to current object in a method or constructor
+- Refers to current object in a method or constructor
 
 [_Example:_](https://github.com/florayuan18/pikachudrinkingwindex/blob/master/src/main/java/com/example/sping_portfolio/controllers/FloraFRQ/FloraPasswordGenerator.java#L11-L12)
 
 ## 23. main method, tester methods
 _Definition:_ 
 - **Main Method**: Runs the project
-- **Tester Method**: Used in console running, used to determine if code is working
+- **Tester Method**: Used in console running, calls every method to determine if code is working
 
 [_Main Method Example:_](https://github.com/florayuan18/pikachudrinkingwindex/blob/master/src/main/java/com/example/sping_portfolio/Main.java)
-[_Tester Method Example:_](https://github.com/florayuan18/pikachudrinkingwindex/blob/master/src/main/java/com/example/sping_portfolio/controllers/CalvinAboutMVC/CalvinFRQ/LightSequence.java)
 
 ## 24. Inheritance, extends
 _Definition:_
-- One class (sub class) inherits the features of another class (super class)
+- One class (subclass) inherits the features of another class (superclass)
 - Reusing existing information in classes for other classes
 - Uses the word **extends**
 
@@ -223,12 +229,21 @@ public class Dog extends Animal{
 
 ## 25. Subclass constructor, super Keyword
 _Definition:_ If the method overrides the superclass’s methods, overridden method can be invoked using the keyword _super_
+- Subclass method overrides superclass method -> use _super_ keywords to invoke superclass (overridden)
 
 _Example:_
 ``` javascript
-public void printMethod() {
-     super.printMethod();
-     System.out.println("Printed in Subclass");
+public class Superclass {
+
+    public void printMethod() {
+        System.out.println("Printed in Superclass.");
+    }
+}
+
+public class Subclass extends Superclass {
+  public void printMethod() {
+      super.printMethod();
+      System.out.println("Printed in Subclass");
 }
 ```
 
@@ -241,13 +256,13 @@ _Example:_
 ``` javascript
 class Dog{
     public void bark(){
-        System.out.println("woof ");
+        System.out.println("woof");
     }
  
     //overloading method
     public void bark(int num){
     	for(int i=0; i<num; i++)
-    		System.out.println("woof ");
+    		System.out.println("woof");
     }
 }
 ```
@@ -269,7 +284,6 @@ public class Drink{
         System.out.println("The instance method in Drink");
     }
 }
-
 
 public class Boba extends Drink{
     public static void testClassMethod() {
