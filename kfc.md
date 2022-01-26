@@ -55,7 +55,7 @@ _Definition:_
 
 ## 7. Truth Tables
 _Definition:_ How two logical conditions are combined based on AND, OR, and NOT
-![truthtable](/assets/img/truthtable.gif)
+![truthtable](/assets/img/truthtable.png)
 
 [_Example:_](https://github.com/florayuan18/pikachudrinkingwindex/blob/master/src/main/java/com/example/sping_portfolio/controllers/CalvinAboutMVC/CalvinFRQ/FRQ_4/CoinGame.java#L80)
 
