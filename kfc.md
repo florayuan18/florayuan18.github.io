@@ -30,7 +30,7 @@ ArrayList<Integer> myNumbers = new ArrayList<Integer>(); // Valid
 
 ## 4. Concatenation, rules on mixed type Concatenation
 _Definition:_ Use the + Operator
-- String.parseString(int) + "string" or Integer.toString(int) + "string"
+- Integer.toString(int) + "string"
 
 [_Example:_](https://github.com/florayuan18/pikachudrinkingwindex/blob/master/src/main/java/com/example/sping_portfolio/controllers/FloraFRQ/FloraInvitation.java#L21-L23)
 
