@@ -61,9 +61,11 @@ _Definition:_ How two logical conditions are combined based on AND, OR, and NOT
 
 ## 8. De Morgan's Law
 _Definition:_ 
+- Distributing a “not” within boolean expression “flips” the relational operator to the opposite relational operator
 - Not (A and B) is the same as Not A or Not B.
 - Not (A or B) is the same as Not A and Not B.
 - The \|\| is "or" and && is "and". For \|\|, either statement has to be true in order for the boolean to be true, and for && both statements have to be true in order for the boolean to be true.
+![demorgans](/assets/img/demorgans.png)
 
 _Example:_
 ```javascript
