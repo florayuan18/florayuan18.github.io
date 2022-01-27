@@ -223,6 +223,33 @@ _Definition:_ Declared with the static keyword & belong to a class
 - When declared as static, single copy of variable is created
 - Shared among all objects in a class
 
+_Without Static Example:_ 
+``` javascript
+public class Classy {
+  int a = 0;
+  
+  public static void main(String[] args) {
+      int b = 1;
+      
+      Classy c = new Classy();
+      System.out.println(s.a);
+  }
+}
+```
+
+_With Static Example:_
+``` javascript
+public class Classy {
+  static int a = 0;
+  
+  public static void main(String[] args) {
+      int b = 1;
+      
+      System.out.println(a);
+  }
+}
+```
+
 [_Example:_](https://github.com/florayuan18/pikachudrinkingwindex/blob/master/src/main/java/com/example/sping_portfolio/controllers/CalvinAboutMVC/CalvinFRQ/FRQ_5/PasswordGenerator.java#L8)
 
 ## 21. Static methods, Class methods
