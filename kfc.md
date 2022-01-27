@@ -100,6 +100,7 @@ _Definition:_
 - Repeats a specific block of code for known number of times
 - Parts: initialization, Boolean expression, and increment
 - If true, loop executes statements in body and if false, exit for loop
+- Enhanced for loop - iterate through elements of arrays whether specifying length of array (needs data type + identifier and name of array)
 
 _Example:_
 ``` javascript
@@ -114,11 +115,25 @@ for (int num = 1; num <= 10; num++)
 }
 ```
 
+_Enhanced for loop Example:_
+``` javascript
+public static void main(String[] args) {
+  int money[] = {3,4,5,6,7};
+  int total = 0;
+  
+  for(int x: money) {
+    total+=x;
+  }
+  System.out.println(total);
+}
+```
+
 ## 13. while loop versus do while loop
 _Definition:_
 - Executed based on a given Boolean condition
 - If true, loop continues and if false, loop stops
 - Condition can be specified -> while (number > 100)
+- Do while loop: always run what's in the parenthesis first (do) even if while is set to false, stops after reaches false
 
 _Example:_
 ``` javascript
@@ -131,6 +146,28 @@ public static void main(String[] args)
         value++;
     }
     System.out.println(“Loop Completed”);
+}
+```
+
+_Do While False Example:_
+``` javascript
+public static void main(String[] args)
+{
+    int a = 0;
+    do {
+      System.out.println("a");
+    } while(a == 1);
+}
+```
+
+_Do While True Example:_
+``` javascript
+public static void main(String[] args)
+{
+    int a = 0;
+    do {
+      System.out.println("a");
+    } while(a == 0);
 }
 ```
 
