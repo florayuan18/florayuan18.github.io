@@ -4,7 +4,8 @@ title: Kira FRQ Reflection
 subtitle: Kira
 ---
 
-All FRQs can be found [here](https://replit.com/@4DISEASE/CSATri2#Main.java)
+All FRQs can be found [here.](https://replit.com/@4DISEASE/CSATri2#Main.java)
+Use the text menu to select which FRQ to view and input the corresponding number in the console to view the FRQ response. 
 
 ## FRQ 2 Reflection
 In this FRQ, the purpose was to create and alter a string. I used a simple implementation using constructors, setters, getters, and methods to alter the strings to fulfill the requirements of the FRQ. It was a good review of string methods and insertion, as well as object creation.
