@@ -16,6 +16,7 @@ This FRQ emulates a dinner party invitation. The FRQ takes the values of the var
 This FRQ takes in a string and finds the character that is repeated in a row the most. My implementation is based on iteration over the characters in the list. The use of a for loop alloweds for checking each character against the next to find when the longest repeated character sequence is in the inputted string.
 
 ## FRQ 5 Reflection
-The first part of this FRQ takes in user input and creates an invite. It includes toString methods, getters, and setters. 
+This FRQ takes in user input and creates an invite. It includes toString methods, getters, and setters. It was a a good challenge to put in user input with this FRQ, and it was a review in returning and toString methods.
 
 ## FRQ 6 Reflection
+The FRQ takes in a list of words and only prints out the words that end in -ing. I was able to practice iteration with this FRQ, as well as if statements and a few string methods. I had to use string length and loops to find out which words ended in -ing. 
