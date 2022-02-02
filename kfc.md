@@ -22,6 +22,8 @@ _Example:_
 ## 3. Wrapper Classes, why wrap int, double
 _Definition:_ Wrapper classes provide a way to use primitive data types (int, boolean, etc..) as objects.
 
+![wrapper](/assets/img/wrapperclass.png)
+
 _Example:_
 ```javascript
 ArrayList<int> myNumbers = new ArrayList<int>(); // Invalid
