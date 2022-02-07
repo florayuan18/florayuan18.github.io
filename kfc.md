@@ -101,7 +101,7 @@ _Definition:_ equals() method to compare the actual value of a String
 ## 11. Comparing Objects
 _Definition:_ Using the equals() method
 
-[_Example:_](https://github.com/florayuan18/pikachudrinkingwindex/blob/985e4a4f36aa64ed62d73600[…]ontrollers/CalvinAboutMVC/CalvinFRQ/FRQ_8/ExperimentalFarm.java#L54-57)
+[_Example:_](https://github.com/florayuan18/pikachudrinkingwindex/blob/985e4a4f36aa64ed62d7360065a268cbbb2aaa2c/src/main/java/com/example/sping_portfolio/controllers/CalvinAboutMVC/CalvinFRQ/FRQ_8/ExperimentalFarm.java#L54-L57)
 
 ## 12. for loop, enhanced for loop
 _Definition:_
