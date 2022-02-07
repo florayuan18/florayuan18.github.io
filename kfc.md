@@ -329,8 +329,8 @@ class Dog{
  
     //overloading method
     public void bark(int num){
-    	for(int i=0; i<num; i++)
-    		System.out.println("woof");
+      for(int i=0; i<num; i++)
+    	System.out.println("woof");
     }
 }
 ```
