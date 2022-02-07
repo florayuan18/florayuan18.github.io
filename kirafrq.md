@@ -21,3 +21,15 @@ This FRQ takes in user input and creates an invite. It includes toString methods
 
 ## FRQ 6 Reflection
 The FRQ takes in a list of words and only prints out the words that end in -ing. I was able to practice iteration with this FRQ, as well as if statements and a few string methods. I had to use string length and loops to find out which words ended in -ing. 
+
+## FRQ 7 Reflection
+In this FRQ, the purpose is to create methods that take in a first name and last name and generate possible usernames out of them. To do this, I used certain string operations, for loops, and worked with lists. It was a good review on how to use enhanced for loops along with lists.
+
+## FRQ 8 Reflection
+The FRQ's purpose is to simulate a crop field and use specific methods to compare the crops. This FRQ was a good review of 2d arrays and how to traverse them. It also helped me to review test methods, as generating an example crop field and running methods on it required a lot of testing.
+
+## FRQ 9 Reflection
+The first part of this FRQ's purpose is to simulate different kinds of books. For this FRQ, I made use of superclasses and subclasses to simulate regular books and picture books. The second part of the FRQ, where the purpose was to simulate animals, also made use of superclasses and subclasses. I felt that it was a good review of constructors in relation to subclasses and superclasses.
+
+## FRQ 10 Reflection
+This last FRQ's purpose was to create a mathematical method that gets the greatest common factor of two different numbers. This FRQ was a good review of if statements and converting math operations to code.
