@@ -16,15 +16,15 @@ author: pikachu
 navbar-links:
 
   ReadMe: "aboutme"
-  Role Guides:
+  Guides:
     - Deployment Guide: "deploymentguide"
     - Design Guide: "designguide"
     - Github Guide: "githubguide"
     - Technical Guide: "technicalguide"
-  Java Terms:
+  Terms:
     - KFC: "kfc"
     - MC: "mc"
-  FRQ Reflections:
+  Reflections:
     - Calvin: "calvinfrq"
     - Crystal: "crystalfrq"
     - Flora: "florafrq"
