@@ -234,7 +234,7 @@ public class Classy {
       int b = 1;
       
       Classy c = new Classy();
-      System.out.println(s.a);
+      System.out.println(c.a);
   }
 }
 ```
