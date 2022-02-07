@@ -57,6 +57,12 @@ _Definition:_
 
 ## 7. Truth Tables
 _Definition:_ How two logical conditions are combined based on AND, OR, and NOT
+- XOR: Exclusive-OR
+  - 0 as an output if both inputs are 0 or 1
+  - 1 as an output if inputs are 0 and 1
+- XNOR: Exclusive-NOR
+  - 1 as an output if both inputs are 0 or 1
+  - 0 as an output if inputs are 0 and 1
 ![truthtable](/assets/img/truthtable.png)
 
 [_Example:_](https://github.com/florayuan18/pikachudrinkingwindex/blob/master/src/main/java/com/example/sping_portfolio/controllers/CalvinAboutMVC/CalvinFRQ/FRQ_4/CoinGame.java#L80)
