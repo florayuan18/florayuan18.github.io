@@ -198,8 +198,18 @@ _Definition:_
 ![bigo](/assets/img/bigo.jpg)
 _Example:_
 ``` javascript
-[comment]: <> (Constant Time)
 // Constant Time
+int n = 1000;
+System.out.println("Hey - your input is: " + n);
+
+// Logarithmic Time Algorithms
+for (int i = 1; i < n; i = i * 2){
+    System.out.println("Hey - I'm busy looking at: " + i);
+}
+
+// Linear Time Algorithms
+for (int i = 0; i < n; i++) {
+    System.out.println("Hey - I'm busy looking at: " + i);
 ```
 
 
