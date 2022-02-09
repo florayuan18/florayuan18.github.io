@@ -196,7 +196,14 @@ _Definition:_
 - Nested Loop --> O(n^2)
 
 ![bigo](/assets/img/bigo.jpg)
-![hashmap](/assets/img/hashmap.png)
+_Example:_
+``` javascript
+[comment]: <> (Constant Time)
+// Constant Time
+```
+
+
+[comment]: <> (![hashmap]&#40;/assets/img/hashmap.png&#41;)
 
 ## 16. Creating a Class, describe Naming Conventions
 _Definition:_
