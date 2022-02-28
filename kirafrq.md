@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kira FRQ Reflection
+title: Kira Reflection
 subtitle: Kira
 ---
 

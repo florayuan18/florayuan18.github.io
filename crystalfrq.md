@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Crystal FRQ Reflection
+title: Crystal Reflection
 subtitle: Crystal
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Calvin FRQ Reflection
+title: Calvin Reflection
 subtitle: Calvin
 ---
 

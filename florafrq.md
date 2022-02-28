@@ -1,8 +1,24 @@
 ---
 layout: page
-title: Flora FRQ Reflection
+title: Flora Reflection
 subtitle: Flora
 ---
+
+## Individual Feature Reflection
+- I think I was somewhat successful in making my feature.  The overall goal of the feature was to create a login/register system that would allow users to see their respective games + ratings for those games.
+  ![loginTest](/assets/img/loginTest.png)
+- I intially wanted to use the features in Spring along with a MySQL database, but I quickly found out that it would be a little too complex at my current level, so I switched to a different way of going about the issue.
+- I ended up using JSON data, creating five users that were stored in the login html page.  Basically, the user would have to input their username and password.  If both the username and password matched the JSON information, then the user would be taken to a separate page that displayed the games and ratings in the original JSON information.
+  ![jsonData](/assets/img/jsonData.png)
+- I used for loops and if/else statements to check if the username/password matches with the JSON data, as well as display alerts if the username or password does not exist.
+  ![noUsername](/assets/img/noUsername.png)
+  ![noPassword](/assets/img/noPassword.png)
+- I converted the JSON data dynamically to an HTML table using Javascript, which ended up working well.
+  ![personTest](/assets/img/personTest.png)
+  ![personTable](/assets/img/personTable.png)
+- I think what I lacked in the individual feature was both design and functionality.  When I tried to reformat the login page in a fancier way, it wouldn't jump to the html table.  Additionally, I had the information stored within the html instead of a separate Users.json file which would have made the code easier to read.
+- If I were to add on to this feature, I would want to add the register aspect of it, as I wasn't able to figure out how to allow the users to create their own accounts with the method I employed.
+- As a whole, working on this feature allowed me to bolster my understanding of how programs store data.  Additionally, I enjoyed the trial and error process of figuring out how to implement this feature, as it forced me to ensure my entire plan would work before putting effort into something that would have yielded no results.
 
 ## FRQ 1 - Unit 2 Light Sequence
 - Unit 2 focused on using objects, so I learned how to create these objects and implement them to use math functions.
