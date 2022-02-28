@@ -3,7 +3,38 @@ layout: page
 title: ReadMe
 subtitle: PikachuDrinkingWindex ReadMe
 ---
+# Week 8 Issues
+
+| Team Member           | Roles |           Issues                              |
+| -------------------------- |-----------------------------|-----------------------------|  
+| Calvin Cheah  | Technical Officer| [CB FRQs](https://github.com/florayuan18/pikachudrinkingwindex/issues/61) |
+| Crystal Widjaja | Scrum Leader | [CB FRQs](https://github.com/florayuan18/pikachudrinkingwindex/issues/60) |
+| Flora Yuan | GitHub Admin | [CB FRQs](https://github.com/florayuan18/pikachudrinkingwindex/issues/56) |
+| Kira Liao | Web Designer | [CB FRQs](https://github.com/florayuan18/pikachudrinkingwindex/issues/57) |
+| Maggie Killada | Deployment Manager | [CB FRQs](https://github.com/florayuan18/pikachudrinkingwindex/issues/55) |
+
+# Week 7 Issues
+
+| Team Member           | Roles |           Issues                              |
+| -------------------------- |-----------------------------|-----------------------------|  
+| Calvin Cheah  | Technical Officer| [CB FRQs](https://replit.com/@Qwiks/CB-FRQs?v=1) |
+| Crystal Widjaja | Scrum Leader | [CB FRQs](https://github.com/florayuan18/pikachudrinkingwindex/commits?author=crystalwidjaja) |
+| Flora Yuan | GitHub Admin | [CB FRQs](https://replit.com/@florayuan18/FloraFRQ#Main.java) |
+| Kira Liao | Web Designer | [CB FRQs](https://replit.com/@4DISEASE/CSATri2?v=1) |
+| Maggie Killada | Deployment Manager | [CB FRQs](https://github.com/florayuan18/pikachudrinkingwindex/commits?author=maggie3000) |
+
+# Week 6 Issues
+
+| Team Member           | Roles |           Issues                              |
+| -------------------------- |-----------------------------|-----------------------------|  
+| Calvin Cheah  | Technical Officer| [Midterm Vocab](http://blog.umbrellabox.cf/kfc/) |
+| Crystal Widjaja | Scrum Leader | [Midterm Vocab](https://github.com/florayuan18/pikachudrinkingwindex/wiki/Crystal-and-Maggie-CSA-Vocabulary) |
+| Flora Yuan | GitHub Admin | [Midterm Vocab](http://blog.umbrellabox.cf/kfc/) |
+| Kira Liao | Web Designer | [Midterm Vocab](http://blog.umbrellabox.cf/kfc/) |
+| Maggie Killada | Deployment Manager | [Midterm Vocab](https://github.com/florayuan18/pikachudrinkingwindex/wiki/Crystal-and-Maggie-CSA-Vocabulary) |
+
 # Week 5 Issues
+
 | Team Member           | Roles |           Issues                              |
 | -------------------------- |-----------------------------|-----------------------------|  
 | Calvin Cheah  | Technical Officer| [Search Bar](https://github.com/florayuan18/pikachudrinkingwindex/issues/31) |
