@@ -40,3 +40,4 @@ myOutput += " "; // replace the value in the matrix with a space
 [Challenge 3](https://github.com/florayuan18/just-to-suffer/commit/fa51cfa45fe7f2baf52cd41939b30adbe716edbf#diff-679a6612cc9f2cd06dc1e3fc480923bebea7f4d13390308de88ad01fb8b744beR1-R74)
 
 ## Replit
+[Replit](https://replit.com/@florayuan18/just-to-suffer#challenges/AltMenu.java)
