@@ -14,7 +14,7 @@ comments: true
 - [Lab Kit](https://github.com/adhithin/lab-kit)
 
 **Potential Features**
-| Team Member           | Tech Talk Notes |           Class Challenges                              |
-| -------------------------- |-----------------------------|-----------------------------|  
-| Flora Yuan | [Notes](https://github.com/florayuan18/pikachudrinkingwindex/wiki/Deployment-Guide) | [Menu Challenge](https://github.com/florayuan18/pikachudrinkingwindex/issues/8) |
+| Team Member           | Tech Talk Notes |           Class Challenges                              |     Review Ticket      |
+| -------------------------- |-----------------------------|-----------------------------|-----------------------------|    
+| Flora Yuan | [Notes](https://github.com/florayuan18/pikachudrinkingwindex/wiki/Deployment-Guide) | [Menu Challenge](https://github.com/florayuan18/pikachudrinkingwindex/issues/8) | [Review Ticket](https://github.com/florayuan18/just-to-suffer/issues/1) |
 
