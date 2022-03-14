@@ -1,7 +1,7 @@
 ---
 layout: page
-title: KFC SubGroup Tech Terms
-subtitle: Kira Liao, Flora Yuan, Calvin Cheah (KFC)
+title: Week 0 - Menu Code Snippets
+subtitle: Flora Yuan
 ---
 ## Challenges
 **Week 0 - Menu**

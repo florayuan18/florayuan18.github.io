@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-subtitle: the pikachu lovers behind Umbrella Box
+title: Tech Talk Notes
+subtitle:
 ---
 # Tech Talk 0 - Data Structures
 
