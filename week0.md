@@ -35,7 +35,7 @@ myOutput += " "; // replace the value in the matrix with a space
 * This helped me better understand how to move through a matrix and carry through actions based on the current element
 
 ## GitHub
-[Challenge 1](https://github.com/florayuan18/just-to-suffer/commit/fa51cfa45fe7f2baf52cd41939b30adbe716edbf#diff-a381d0919fb872c439419597c681ac66f7118bbd4f996f621ac854da5cbf8e6cR1-R42)
+[Challenge 1](https://github.com/florayuan18/just-to-suffer/commit/7b4252f3931f9f6c9ae67d82e073c9df98909295#diff-a381d0919fb872c439419597c681ac66f7118bbd4f996f621ac854da5cbf8e6cR4-R48)
 [Challenge 2](https://github.com/florayuan18/just-to-suffer/commit/fa51cfa45fe7f2baf52cd41939b30adbe716edbf#diff-79d3f3c548e6fc4fe97753724d0e58c838519abac6f2028d025647dd8620badeR1-R39)
 [Challenge 3](https://github.com/florayuan18/just-to-suffer/commit/fa51cfa45fe7f2baf52cd41939b30adbe716edbf#diff-679a6612cc9f2cd06dc1e3fc480923bebea7f4d13390308de88ad01fb8b744beR1-R74)
 
