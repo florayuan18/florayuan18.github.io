@@ -12,25 +12,34 @@ Challenges:
 * Matrix
 
 ## Code Snippets
-`// Map.Entry - access entries within a map
+```javascript
+// Map.Entry - access entries within a map
 for (Map.Entry<Integer, AltMenu> pair : menu.entrySet()) { // entrySet returns a set that has the same elements as the map, entrySet is an array, take elements out
-System.out.println(pair.getKey() + " ==> " + pair.getValue().getTitle()); // printing out key and value combination
-}`
+    System.out.println(pair.getKey() + " ==> " + pair.getValue().getTitle()); // printing out key and value combination
+}
+```
+
 * this segment of the code accesses the entries within the map.  It returns the values of the key and value combination within the HashMap.  I had to research what a HashMap was. but was eventually able to figure out the components of a HashMap.
 
-`    public void swapToLowHighOrder(IntByReference object2) {
-if (this.value > object2.value) {
-int temp = this.value; // creating a temporary variable to hold this.value
-this.value = object2.value; // assigning the object.value to this.value
-object2.value = temp;
+```javascript
+public void swapToLowHighOrder(IntByReference object2) {
+    if (this.value > object2.value) {
+        int temp = this.value; // creating a temporary variable to hold this.value
+        this.value = object2.value; // assigning the object.value to this.value
+        object2.value = temp;
+    }
 }
-}`
+```
+
 * creating a temporary variable that holds the value while the values are swapped.  This was difficult to figure out because I wasn't sure how to directly swap the values, so I added in another variable to act as a median.
 
-`for(int j = 0; j < matrix[i].length; ++j) { // checking each element of the row | when j = matrix length, moves to next row
-if (matrix[i][j] == -1) { // if the value in the matrix = -1
-myOutput += " "; // replace the value in the matrix with a space
-}`
+```javascript
+for(int j = 0; j < matrix[i].length; ++j) { // checking each element of the row | when j = matrix length, moves to next row
+    if (matrix[i][j] == -1) { // if the value in the matrix = -1
+        myOutput += " "; // replace the value in the matrix with a space
+    }
+```
+
 * code in order to replace the values within the matrix - a key aspect of the Third Challenge
 * This helped me better understand how to move through a matrix and carry through actions based on the current element
 
