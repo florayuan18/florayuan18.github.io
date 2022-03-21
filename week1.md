@@ -58,6 +58,7 @@ public void reverseQueue(Queue<Integer> queue1) { // taking every element of que
 ```
 
 * This code snippet takes every element out and passes the elements to the object.  Using the for loop, it will go through each of the three elements and push them into myStack.
+* These challenges helped me better understand linked list.  I think what I took out of this week the most was simply being okay with taking multiple approaches to a problem.  I often had to switch my line of thinking in order to figure out which method would function the best.  I learned a few more ways of potentially appraoching problems.
 
 ## GitHub
 [Challenge 1](https://github.com/florayuan18/just-to-suffer/commit/69297ed1075b677b2383d9a315ef4eb24b6fcb1c)
