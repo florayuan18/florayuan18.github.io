@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Week 0 - Menu Code Snippets
+title: Week 1 - Menu Code Snippets
 subtitle: Flora Yuan
 ---
 ## Challenges
-**Week 0 - Menu**
+**Week 1 - Linked List**
 
 Challenges:
 * Adding and Deleting Elements from Queue
