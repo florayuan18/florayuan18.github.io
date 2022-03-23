@@ -3,7 +3,42 @@ layout: page
 title: Tech Talk Notes
 subtitle:
 ---
+# Tech Talk 2 - Calculator
+Challenges:
+* Calculator class with string with mathematical expressions
+* Create an object with a toString that prints output
+* Convert the expression into mathematical tokens
+* Convert tokens to reverse polish notation (used for calculators)
+* In terms of "After thinking about basic anatomy of an expression and RPN algorithm"
+> Given term tokenizer and reverse Polish notation
+
+Split Term:
+* Define list of operators - put into hashmaps with precedents on them
+* Multiplication is a higher precedent than addition
+* Separators and operators (separators when you're tokenizing)
+
+Steps:
+* Tokenizer: compare character by character
+* Separator breaks up the string - breaks up the items
+* Multi Character Term - has to be added together
+* Walk through with the Debugger
+* Term Tokenizer then Reverse Polish Notation
+> Shuffle around
+> Two operators in stack
+> Reverse Polish is so computer knows how to do operator
+
+Example:
+* Tokens (list): 1+2*3
+* RPN (list): 1 2 3 * +
+* Tokens: 1 * 2 + 3
+* 1 2 * 3 +
+
+Challenges:
+* 2nd challenge: keeping track of operators
+* Extra Credit for shunting yard algorithm
+
 # Tech Talk 1 - Linked Lists Part 2
+
 Linked Lists:
 * [Tri 2 Tech Talk](https://github.com/nighthawkcoders/nighthawk_csa/wiki/Tri-2:-Tech-Talk-8:-Linked-Lists,-Queues,-Stacks)
 * Array is a data structure
