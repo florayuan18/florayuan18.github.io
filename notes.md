@@ -3,6 +3,13 @@ layout: page
 title: Tech Talk Notes
 subtitle:
 ---
+
+# Tech Talk 3 - Sorts
+Challenges:
+* Sort and Analysis and see which one is most efficient
+* Run each sort 12 times on 5000+ elements
+* Throw out high and low
+
 # Tech Talk 2 - Calculator
 Challenges:
 * Calculator class with string with mathematical expressions
