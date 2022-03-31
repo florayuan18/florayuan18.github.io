@@ -10,6 +10,13 @@ Challenges:
 * Run each sort 12 times on 5000+ elements
 * Throw out high and low
 
+Notes:
+* Bubble sort, merge sort, insertion sort, selection sort
+* Figure out which is most efficient
+* Consider time, comparisons, swaps
+* Use inheritance/polymorphism to sort
+* Stack Overflow :D
+
 # Tech Talk 2 - Calculator
 Challenges:
 * Calculator class with string with mathematical expressions
