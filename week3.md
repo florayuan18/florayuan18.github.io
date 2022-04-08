@@ -99,6 +99,8 @@ void merge(int a[], int beg, int mid, int end)
 
 * I think what I learned most about this was the idea of using tester data.  Since the requirement was to use 5000+ elements, it looked very clustered and hard to read.  So, I often changed it to use 10 variables before I committed in order to make sure that the function I wrote worked.  I also opted to print the array before the sort and after the sort, just to make sure that it worked.  I think this helped me check my work, and it is definitely something I will employ in the future.
 
+![sortssheet.png](/assets/img/sortssheet.png)
+
 ## GitHub
 [Selection Sort](https://github.com/florayuan18/just-to-suffer/commit/e0d12f57f7421fadfd713953d2ad0fbe84752462)
 [Insertion Sort](https://github.com/florayuan18/just-to-suffer/commit/ea1176bd9058e83559e38613565e136559d4a2c6)
