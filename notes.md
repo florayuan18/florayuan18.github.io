@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tech Talk Notes
-subtitle:
+subtitle: 
 ---
 
 # Faculty Lecture Notes
