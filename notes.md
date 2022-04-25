@@ -8,34 +8,34 @@ subtitle:
 1. Unit 1
 * Computer programs take data in and manipulate that data
 * Manipulation do to specific instructions --> programming
-* Primitive Data Types:
-> Integers -> int (integer)
-> Floating Point Numbers -> double (fraction/decimal)
-> int num;
+Primitive Data Types:
+* Integers -> int (integer)
+* Floating Point Numbers -> double (fraction/decimal)
+* int num;
 num = 3;
 Declare the variable then assign a value to that variable
-> double otherNum = 4.0;
+* double otherNum = 4.0;
 Declaring the variable and assigning at the same time
-> Types of primitive data is dependent on memory
-> Integer -> byte (1), short (2), int (4), long (8)
-> Floating Point Numbers -> float (4), double (8)
-> Others are char (characters/Unicode encoding/2) and boolean (true/false/1)
+* Types of primitive data is dependent on memory
+* Integer -> byte (1), short (2), int (4), long (8)
+* Floating Point Numbers -> float (4), double (8)
+* Others are char (characters/Unicode encoding/2) and boolean (true/false/1)
 
 
 2. Unit 2
 * older programming was different
 * assembler -> converts assembly language program to machine language
 * trying to develop further away from the processor
-* programming languages: 
-> fortran: designed to solve specific programs
-> cobol: identification, reports, very specific purpose
+programming languages: 
+* fortran: designed to solve specific programs
+* cobol: identification, reports, very specific purpose
 * there are many different ways of solving problems
 * think of new ways to improve them
 * learn how to use it vs knowing everything about how it works --> how is information provided
-> knowing how to use it --> able to solve problems
+* knowing how to use it --> able to solve problems
 * object-oriented programming --> defining parts and using those parts to solve problems
-> creating a model that is useful
-> great in development --> multiple people together
+* creating a model that is useful
+* great in development --> multiple people together
 
 
 # Tech Talk 3 - Sorts
