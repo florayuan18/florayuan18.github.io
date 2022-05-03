@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Week 3 - Sorts
+title: Study Week 2
 subtitle: Flora Yuan
 ---
 ## Study Week 2
