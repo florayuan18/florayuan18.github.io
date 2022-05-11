@@ -10,7 +10,7 @@ April 29th:
 * Google Search Function implemented
 * Include the search bar on each page
 
-May 13th:
+May 13th: 
 * Link Search Bar for PubMed (Database of Articles)
 
 ## Comments/Runtime
