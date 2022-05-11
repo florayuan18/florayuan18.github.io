@@ -99,6 +99,22 @@ String[] resultOne = strArrMethod(testOne);
 
 * I misread the code.  I thought that it would be necessary to organize based on string length, with the smallest strings coming first.  However, it seems like of, of, of, spring is the right answer because the method assigns the shortest string between arr[0] and arr[3].  Since the shortest string appears again, of would be repeated two more times.
 
+Q24:
+
+Q27:
+
+Q28:
+
+Q29:
+
+Q33: 
+
+Q38:
+
+Q39:
+
+Q40:
+
 Reflection: I think that for taking the test with no studying, I did pretty okay.  I think that I have a good amount of the basic concepts, but I need to brush up on other concepts.  I think my next steps moving forward would just be to watch more of the university lectures and applying the knowledge to the PBL projects.
 * I had to guess on the last 10 questions, so I will add in more revisions for next week.
 
