@@ -3,6 +3,10 @@ layout: page
 title: Night at the Museum
 subtitle: Flora Yuan
 ---
+## Grade
+* 4/5
+* I think I found some success with creating a usable interface for rating and review, but there were still persisting problems.  I couldn't figure out how to get the star widgets to display and clicking on the new tab seemed to change the formatting of the top nav bar.  There also seems to be an issue with the page showing up on the deployed version, so we chose to remove it for the time being.  These are both issues that I think I could have fixed.
+
 ## Night of the Museum Individual Work
 * Ratings and Review Page
 * Component - Star Rating
